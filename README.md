@@ -2,6 +2,8 @@
 
 Two separate projects.
 
+Using Google Colab is recommended
+
 ## Movie Genre Classifier
 
 Classifies IMDb movie descriptions into 20 different genres using an LSTM neural network with pre-trained GloVe word embeddings.
